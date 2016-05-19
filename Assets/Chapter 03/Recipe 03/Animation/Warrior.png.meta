@@ -1,0 +1,288 @@
+fileFormatVersion: 2
+guid: 011173b23ecd5024082744a21d5274df
+timeCreated: 1449751788
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Warrior_0
+    21300002: Warrior_1
+    21300004: Warrior_2
+    21300006: Warrior_3
+    21300008: Warrior_4
+    21300010: Warrior_5
+    21300012: Warrior_6
+    21300014: Warrior_7
+    21300016: Warrior_8
+    21300018: Warrior_9
+    21300020: Warrior_10
+    21300022: Warrior_11
+    21300024: Warrior_12
+    21300026: Warrior_13
+    21300028: Warrior_14
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Warrior_0
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 400
+        width: 17
+        height: 92
+      alignment: 9
+      pivot: {x: 0.48037001, y: 0.928008}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Warrior_1
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 396
+        width: 17
+        height: 89
+      alignment: 9
+      pivot: {x: 0.46074092, y: 0.9311866}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Warrior_2
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 358
+        width: 101
+        height: 102
+      alignment: 9
+      pivot: {x: 0.48348016, y: 0.084509455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.831497, y: 93.380035}
+        - {x: -39.831497, y: 88.380035}
+        - {x: -48.831497, y: 71.380035}
+        - {x: -48.831497, y: 7.3800354}
+        - {x: -42.831497, y: 8.380035}
+        - {x: -38.831497, y: 12.380035}
+        - {x: -39.831497, y: -5.6199646}
+        - {x: -38.831497, y: -8.619965}
+        - {x: 52.168503, y: -8.619965}
+        - {x: 52.168503, y: 88.380035}
+        - {x: 41.168503, y: 93.380035}
+    - name: Warrior_3
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 347
+        width: 77
+        height: 130
+      alignment: 9
+      pivot: {x: 0.4999996, y: 0.13631006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.49997, y: 112.27969}
+        - {x: -38.49997, y: -11.720306}
+        - {x: -11.4999695, y: -17.720306}
+        - {x: 36.50003, y: -17.720306}
+        - {x: 38.50003, y: 21.279694}
+        - {x: 38.50003, y: 112.27969}
+    - name: Warrior_4
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 301
+        width: 16
+        height: 71
+      alignment: 9
+      pivot: {x: 0.56256914, y: 0.92639893}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Warrior_5
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 305
+        width: 14
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5, y: 0.9242772}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Warrior_6
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 180
+        width: 73
+        height: 148
+      alignment: 9
+      pivot: {x: 0.45657307, y: 0.08287368}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.329834, y: 135.7347}
+        - {x: -33.329834, y: -10.265305}
+        - {x: -32.329834, y: -12.265305}
+        - {x: 39.670166, y: -12.265305}
+        - {x: 39.670166, y: 109.734695}
+        - {x: 20.670166, y: 135.7347}
+    - name: Warrior_7
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 180
+        width: 34
+        height: 96
+      alignment: 9
+      pivot: {x: 0.49018502, y: 0.91017437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.66629, y: 8.6232605}
+        - {x: -16.66629, y: -18.37674}
+        - {x: -16.66629, y: -83.37674}
+        - {x: -6.6662903, y: -87.37674}
+        - {x: 12.33371, y: -87.37674}
+        - {x: 17.33371, y: -66.37674}
+        - {x: 17.33371, y: 8.6232605}
+    - name: Warrior_8
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 183
+        width: 34
+        height: 94
+      alignment: 9
+      pivot: {x: 0.49018502, y: 0.93310124}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.66629, y: 6.2884827}
+        - {x: -16.66629, y: 1.2884827}
+        - {x: -16.66629, y: -79.71152}
+        - {x: -12.66629, y: -87.71152}
+        - {x: 17.33371, y: -87.71152}
+        - {x: 17.33371, y: 6.2884827}
+    - name: Warrior_9
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 229
+        width: 24
+        height: 74
+      alignment: 9
+      pivot: {x: 0.43206915, y: 0.8877551}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Warrior_10
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 229
+        width: 24
+        height: 74
+      alignment: 9
+      pivot: {x: 0.43206787, y: 0.87453604}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Warrior_11
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 51
+        width: 81
+        height: 108
+      alignment: 9
+      pivot: {x: 0.2375494, y: 0.89367604}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22.7585, y: 11.482986}
+        - {x: -19.2415, y: 11.482986}
+        - {x: -19.2415, y: -22.517014}
+        - {x: -8.241501, y: -96.51701}
+        - {x: 61.7585, y: -96.51701}
+        - {x: 61.7585, y: -80.51701}
+        - {x: 23.7585, y: 10.482986}
+    - name: Warrior_12
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 51
+        width: 84
+        height: 109
+      alignment: 9
+      pivot: {x: 0.2951275, y: 0.89935136}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.79071, y: 10.970703}
+        - {x: -24.79071, y: -29.029297}
+        - {x: -11.79071, y: -89.0293}
+        - {x: -9.79071, y: -98.0293}
+        - {x: 58.20929, y: -98.0293}
+        - {x: 59.20929, y: -95.0293}
+        - {x: 59.20929, y: -82.0293}
+        - {x: 27.20929, y: 10.970703}
+    - name: Warrior_13
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 117
+        width: 19
+        height: 103
+      alignment: 9
+      pivot: {x: 0.6029679, y: 0.9115406}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Warrior_14
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 117
+        width: 17
+        height: 101
+      alignment: 9
+      pivot: {x: 0.6150818, y: 0.9326036}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

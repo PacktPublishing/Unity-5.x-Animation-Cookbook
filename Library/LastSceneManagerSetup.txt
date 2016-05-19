@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Chapter 10 Miscellaneous/Recipe 04 Preparing motion capture files for
+    humanoid characters/Example.unity
+  isLoaded: 1
+  isActive: 1

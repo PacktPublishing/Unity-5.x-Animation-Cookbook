@@ -1,0 +1,35 @@
+Base path: D:/Programy/Gry/Edytory gier/Unity50/Editor/Data
+Pipe name: \\.\pipe\UnityShaderCompiler-64bit-3-5044
+Cmd: getPlatforms
+Cmd: compileSnippet
+  api=1 type=0 insize=2093 outsize=259 kw=DIRECTIONAL SHADOWS_OFF ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=2093 outsize=400 kw=POINT_COOKIE SHADOWS_OFF ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=2093 outsize=503 kw=SPOT SHADOWS_DEPTH SHADOWS_NATIVE ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=2093 outsize=529 kw=DIRECTIONAL_COOKIE SHADOWS_SCREEN ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=2093 outsize=442 kw=POINT_COOKIE SHADOWS_CUBE ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=2093 outsize=442 kw=POINT SHADOWS_CUBE SHADOWS_SOFT ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2093 outsize=2281 kw=POINT_COOKIE SHADOWS_CUBE SHADOWS_SOFT ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=2093 outsize=187 kw=DIRECTIONAL SHADOWS_OFF ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=2093 outsize=325 kw=POINT_COOKIE SHADOWS_OFF ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=2093 outsize=510 kw=SPOT SHADOWS_DEPTH SHADOWS_NATIVE ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=2093 outsize=324 kw=DIRECTIONAL_COOKIE SHADOWS_SCREEN ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=2093 outsize=547 kw=POINT_COOKIE SHADOWS_CUBE ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=2093 outsize=779 kw=POINT SHADOWS_CUBE SHADOWS_SOFT ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2093 outsize=3037 kw=POINT_COOKIE SHADOWS_CUBE SHADOWS_SOFT ok=1
+Unhandled exception: Readfile from pipe failed. GLE=Potok został zakończony.
+
+
+Quitting shader compiler process

@@ -1,0 +1,382 @@
+fileFormatVersion: 2
+guid: eb76cdd61104c194e90ecef1cdd26ab3
+timeCreated: 1447420869
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Abdomen1
+    100002: Abdomen2
+    100004: FangBack.L
+    100006: FangBack.R
+    100008: FangFront.L
+    100010: FangFront.R
+    100012: Head
+    100014: LegBack1.L
+    100016: LegBack1.R
+    100018: LegBack2.L
+    100020: LegBack2.R
+    100022: LegBack3.L
+    100024: LegBack3.R
+    100026: LegBack3T.L
+    100028: LegBack3T.R
+    100030: LegBackKnee.L
+    100032: LegBackKnee.R
+    100034: LegFront1.L
+    100036: LegFront1.R
+    100038: LegFront2.L
+    100040: LegFront2.R
+    100042: LegFront3.L
+    100044: LegFront3.R
+    100046: LegFront3T.L
+    100048: LegFront3T.R
+    100050: LegFrontKnee.L
+    100052: LegFrontKnee.R
+    100054: LegMiddle1.L
+    100056: LegMiddle1.R
+    100058: LegMiddle2.L
+    100060: LegMiddle2.R
+    100062: LegMiddle3.L
+    100064: LegMiddle3.R
+    100066: LegMiddle3T.L
+    100068: LegMiddle3T.R
+    100070: LegMiddleKnee.L
+    100072: LegMiddleKnee.R
+    100074: Root
+    100076: //RootNode
+    100078: Spider
+    100080: SpiderRig
+    100082: Torso
+    400000: Abdomen1
+    400002: Abdomen2
+    400004: FangBack.L
+    400006: FangBack.R
+    400008: FangFront.L
+    400010: FangFront.R
+    400012: Head
+    400014: LegBack1.L
+    400016: LegBack1.R
+    400018: LegBack2.L
+    400020: LegBack2.R
+    400022: LegBack3.L
+    400024: LegBack3.R
+    400026: LegBack3T.L
+    400028: LegBack3T.R
+    400030: LegBackKnee.L
+    400032: LegBackKnee.R
+    400034: LegFront1.L
+    400036: LegFront1.R
+    400038: LegFront2.L
+    400040: LegFront2.R
+    400042: LegFront3.L
+    400044: LegFront3.R
+    400046: LegFront3T.L
+    400048: LegFront3T.R
+    400050: LegFrontKnee.L
+    400052: LegFrontKnee.R
+    400054: LegMiddle1.L
+    400056: LegMiddle1.R
+    400058: LegMiddle2.L
+    400060: LegMiddle2.R
+    400062: LegMiddle3.L
+    400064: LegMiddle3.R
+    400066: LegMiddle3T.L
+    400068: LegMiddle3T.R
+    400070: LegMiddleKnee.L
+    400072: LegMiddleKnee.R
+    400074: Root
+    400076: Spider
+    400078: //RootNode
+    400080: SpiderRig
+    400082: Torso
+    4300000: Spider
+    7400000: SpiderIdle
+    7400002: SpiderAttack
+    7400004: Spider|Idle
+    7400006: SpiderAttack
+    9500000: //RootNode
+    13700000: Spider
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 2
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: SpiderIdle
+      takeName: SpiderRig|Idle
+      firstFrame: 0
+      lastFrame: 63
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Spider
+        weight: 1
+      - path: SpiderRig
+        weight: 1
+      - path: SpiderRig/LegBack3T.L
+        weight: 1
+      - path: SpiderRig/LegBack3T.L/LegBackKnee.L
+        weight: 1
+      - path: SpiderRig/LegBack3T.R
+        weight: 1
+      - path: SpiderRig/LegBack3T.R/LegBackKnee.R
+        weight: 1
+      - path: SpiderRig/LegFront3T.L
+        weight: 1
+      - path: SpiderRig/LegFront3T.L/LegFrontKnee.L
+        weight: 1
+      - path: SpiderRig/LegFront3T.R
+        weight: 1
+      - path: SpiderRig/LegFront3T.R/LegFrontKnee.R
+        weight: 1
+      - path: SpiderRig/LegMiddle3T.L
+        weight: 1
+      - path: SpiderRig/LegMiddle3T.L/LegMiddleKnee.L
+        weight: 1
+      - path: SpiderRig/LegMiddle3T.R
+        weight: 1
+      - path: SpiderRig/LegMiddle3T.R/LegMiddleKnee.R
+        weight: 1
+      - path: SpiderRig/Root
+        weight: 1
+      - path: SpiderRig/Root/Abdomen1
+        weight: 1
+      - path: SpiderRig/Root/Abdomen1/Abdomen2
+        weight: 1
+      - path: SpiderRig/Root/LegBack1.L
+        weight: 1
+      - path: SpiderRig/Root/LegBack1.L/LegBack2.L
+        weight: 1
+      - path: SpiderRig/Root/LegBack1.L/LegBack2.L/LegBack3.L
+        weight: 1
+      - path: SpiderRig/Root/LegBack1.R
+        weight: 1
+      - path: SpiderRig/Root/LegBack1.R/LegBack2.R
+        weight: 1
+      - path: SpiderRig/Root/LegBack1.R/LegBack2.R/LegBack3.R
+        weight: 1
+      - path: SpiderRig/Root/LegFront1.L
+        weight: 1
+      - path: SpiderRig/Root/LegFront1.L/LegFront2.L
+        weight: 1
+      - path: SpiderRig/Root/LegFront1.L/LegFront2.L/LegFront3.L
+        weight: 1
+      - path: SpiderRig/Root/LegFront1.R
+        weight: 1
+      - path: SpiderRig/Root/LegFront1.R/LegFront2.R
+        weight: 1
+      - path: SpiderRig/Root/LegFront1.R/LegFront2.R/LegFront3.R
+        weight: 1
+      - path: SpiderRig/Root/LegMiddle1.L
+        weight: 1
+      - path: SpiderRig/Root/LegMiddle1.L/LegMiddle2.L
+        weight: 1
+      - path: SpiderRig/Root/LegMiddle1.L/LegMiddle2.L/LegMiddle3.L
+        weight: 1
+      - path: SpiderRig/Root/LegMiddle1.R
+        weight: 1
+      - path: SpiderRig/Root/LegMiddle1.R/LegMiddle2.R
+        weight: 1
+      - path: SpiderRig/Root/LegMiddle1.R/LegMiddle2.R/LegMiddle3.R
+        weight: 1
+      - path: SpiderRig/Root/Torso
+        weight: 1
+      - path: SpiderRig/Root/Torso/Head
+        weight: 1
+      - path: SpiderRig/Root/Torso/Head/FangBack.L
+        weight: 1
+      - path: SpiderRig/Root/Torso/Head/FangBack.R
+        weight: 1
+      - path: SpiderRig/Root/Torso/Head/FangFront.L
+        weight: 1
+      - path: SpiderRig/Root/Torso/Head/FangFront.R
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: SpiderAttack
+      takeName: SpiderRig|SpiderAttack
+      firstFrame: 0
+      lastFrame: 28
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Spider
+        weight: 1
+      - path: SpiderRig
+        weight: 1
+      - path: SpiderRig/LegBack3T.L
+        weight: 1
+      - path: SpiderRig/LegBack3T.L/LegBackKnee.L
+        weight: 1
+      - path: SpiderRig/LegBack3T.R
+        weight: 1
+      - path: SpiderRig/LegBack3T.R/LegBackKnee.R
+        weight: 1
+      - path: SpiderRig/LegFront3T.L
+        weight: 1
+      - path: SpiderRig/LegFront3T.L/LegFrontKnee.L
+        weight: 1
+      - path: SpiderRig/LegFront3T.R
+        weight: 1
+      - path: SpiderRig/LegFront3T.R/LegFrontKnee.R
+        weight: 1
+      - path: SpiderRig/LegMiddle3T.L
+        weight: 1
+      - path: SpiderRig/LegMiddle3T.L/LegMiddleKnee.L
+        weight: 1
+      - path: SpiderRig/LegMiddle3T.R
+        weight: 1
+      - path: SpiderRig/LegMiddle3T.R/LegMiddleKnee.R
+        weight: 1
+      - path: SpiderRig/Root
+        weight: 1
+      - path: SpiderRig/Root/Abdomen1
+        weight: 1
+      - path: SpiderRig/Root/Abdomen1/Abdomen2
+        weight: 1
+      - path: SpiderRig/Root/LegBack1.L
+        weight: 1
+      - path: SpiderRig/Root/LegBack1.L/LegBack2.L
+        weight: 1
+      - path: SpiderRig/Root/LegBack1.L/LegBack2.L/LegBack3.L
+        weight: 1
+      - path: SpiderRig/Root/LegBack1.R
+        weight: 1
+      - path: SpiderRig/Root/LegBack1.R/LegBack2.R
+        weight: 1
+      - path: SpiderRig/Root/LegBack1.R/LegBack2.R/LegBack3.R
+        weight: 1
+      - path: SpiderRig/Root/LegFront1.L
+        weight: 1
+      - path: SpiderRig/Root/LegFront1.L/LegFront2.L
+        weight: 1
+      - path: SpiderRig/Root/LegFront1.L/LegFront2.L/LegFront3.L
+        weight: 1
+      - path: SpiderRig/Root/LegFront1.R
+        weight: 1
+      - path: SpiderRig/Root/LegFront1.R/LegFront2.R
+        weight: 1
+      - path: SpiderRig/Root/LegFront1.R/LegFront2.R/LegFront3.R
+        weight: 1
+      - path: SpiderRig/Root/LegMiddle1.L
+        weight: 1
+      - path: SpiderRig/Root/LegMiddle1.L/LegMiddle2.L
+        weight: 1
+      - path: SpiderRig/Root/LegMiddle1.L/LegMiddle2.L/LegMiddle3.L
+        weight: 1
+      - path: SpiderRig/Root/LegMiddle1.R
+        weight: 1
+      - path: SpiderRig/Root/LegMiddle1.R/LegMiddle2.R
+        weight: 1
+      - path: SpiderRig/Root/LegMiddle1.R/LegMiddle2.R/LegMiddle3.R
+        weight: 1
+      - path: SpiderRig/Root/Torso
+        weight: 1
+      - path: SpiderRig/Root/Torso/Head
+        weight: 1
+      - path: SpiderRig/Root/Torso/Head/FangBack.L
+        weight: 1
+      - path: SpiderRig/Root/Torso/Head/FangBack.R
+        weight: 1
+      - path: SpiderRig/Root/Torso/Head/FangFront.L
+        weight: 1
+      - path: SpiderRig/Root/Torso/Head/FangFront.R
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

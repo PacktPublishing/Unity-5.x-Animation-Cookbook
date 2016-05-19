@@ -1,0 +1,3 @@
+The 01_01.bvh file is a part of Carnegie-Mellon University mocap library that can be found here:
+
+http://mocap.cs.cmu.edu/

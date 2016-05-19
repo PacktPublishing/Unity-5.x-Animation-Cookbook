@@ -1,0 +1,207 @@
+fileFormatVersion: 2
+guid: 564a64b586fa48a4fb92664ee679a434
+timeCreated: 1454693781
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: chest
+    100004: Crossbow
+    100006: CrossbowFront
+    100008: CrossbowHandle
+    100010: eye_L
+    100012: eye_R
+    100014: f_index_01_L
+    100016: f_index_01_R
+    100018: f_index_02_L
+    100020: f_index_02_R
+    100022: f_index_03_L
+    100024: f_index_03_R
+    100026: f_middle_01_L
+    100028: f_middle_01_R
+    100030: f_middle_02_L
+    100032: f_middle_02_R
+    100034: f_middle_03_L
+    100036: f_middle_03_R
+    100038: f_pinky_01_L
+    100040: f_pinky_01_R
+    100042: f_pinky_02_L
+    100044: f_pinky_02_R
+    100046: f_pinky_03_L
+    100048: f_pinky_03_R
+    100050: f_ring_01_L
+    100052: f_ring_01_R
+    100054: f_ring_02_L
+    100056: f_ring_02_R
+    100058: f_ring_03_L
+    100060: f_ring_03_R
+    100062: foot_L
+    100064: foot_R
+    100066: footTarget_L
+    100068: footTarget_R
+    100070: forearm_L
+    100072: forearm_R
+    100074: hand_L
+    100076: hand_R
+    100078: handTarget_R
+    100080: head
+    100082: hips
+    100084: knee_L
+    100086: knee_R
+    100088: metarig
+    100090: neck
+    100092: shin_L
+    100094: shin_R
+    100096: shoulder_L
+    100098: shoulder_R
+    100100: spine
+    100102: thigh_L
+    100104: thigh_R
+    100106: thumb_01_L
+    100108: thumb_01_R
+    100110: thumb_02_L
+    100112: thumb_02_R
+    100114: thumb_03_L
+    100116: thumb_03_R
+    100118: toe_L
+    100120: toe_R
+    100122: upper_arm_L
+    100124: upper_arm_R
+    100126: WarriorMesh
+    400000: //RootNode
+    400002: chest
+    400004: Crossbow
+    400006: CrossbowFront
+    400008: CrossbowHandle
+    400010: eye_L
+    400012: eye_R
+    400014: f_index_01_L
+    400016: f_index_01_R
+    400018: f_index_02_L
+    400020: f_index_02_R
+    400022: f_index_03_L
+    400024: f_index_03_R
+    400026: f_middle_01_L
+    400028: f_middle_01_R
+    400030: f_middle_02_L
+    400032: f_middle_02_R
+    400034: f_middle_03_L
+    400036: f_middle_03_R
+    400038: f_pinky_01_L
+    400040: f_pinky_01_R
+    400042: f_pinky_02_L
+    400044: f_pinky_02_R
+    400046: f_pinky_03_L
+    400048: f_pinky_03_R
+    400050: f_ring_01_L
+    400052: f_ring_01_R
+    400054: f_ring_02_L
+    400056: f_ring_02_R
+    400058: f_ring_03_L
+    400060: f_ring_03_R
+    400062: foot_L
+    400064: foot_R
+    400066: footTarget_L
+    400068: footTarget_R
+    400070: forearm_L
+    400072: forearm_R
+    400074: hand_L
+    400076: hand_R
+    400078: handTarget_R
+    400080: head
+    400082: hips
+    400084: knee_L
+    400086: knee_R
+    400088: metarig
+    400090: neck
+    400092: shin_L
+    400094: shin_R
+    400096: shoulder_L
+    400098: shoulder_R
+    400100: spine
+    400102: thigh_L
+    400104: thigh_R
+    400106: thumb_01_L
+    400108: thumb_01_R
+    400110: thumb_02_L
+    400112: thumb_02_R
+    400114: thumb_03_L
+    400116: thumb_03_R
+    400118: toe_L
+    400120: toe_R
+    400122: upper_arm_L
+    400124: upper_arm_R
+    400126: WarriorMesh
+    2300000: Crossbow
+    3300000: Crossbow
+    4300000: Crossbow
+    4300002: WarriorMesh
+    7400000: Default Take
+    7400002: AimLeftDown
+    9500000: //RootNode
+    13700000: WarriorMesh
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 2
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,486 @@
+fileFormatVersion: 2
+guid: 255199198aea11740a9ef03eb0e6022b
+timeCreated: 1457535971
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Abdomen1
+    100002: Abdomen2
+    100004: Abdomen2_end
+    100006: FangBack.L
+    100008: FangBack.L_end
+    100010: FangBack.R
+    100012: FangBack.R_end
+    100014: FangFront.L
+    100016: FangFront.L_end
+    100018: FangFront.R
+    100020: FangFront.R_end
+    100022: //RootNode
+    100024: Head
+    100026: LegBack1.L
+    100028: LegBack1.R
+    100030: LegBack2.L
+    100032: LegBack2.R
+    100034: LegBack3.L
+    100036: LegBack3.L_end
+    100038: LegBack3.R
+    100040: LegBack3.R_end
+    100042: LegBack3T.L
+    100044: LegBack3T.R
+    100046: LegBackKnee.L
+    100048: LegBackKnee.L_end
+    100050: LegBackKnee.R
+    100052: LegBackKnee.R_end
+    100054: LegFront1.L
+    100056: LegFront1.R
+    100058: LegFront2.L
+    100060: LegFront2.R
+    100062: LegFront3.L
+    100064: LegFront3.L_end
+    100066: LegFront3.R
+    100068: LegFront3.R_end
+    100070: LegFront3T.L
+    100072: LegFront3T.R
+    100074: LegFrontKnee.L
+    100076: LegFrontKnee.L_end
+    100078: LegFrontKnee.R
+    100080: LegFrontKnee.R_end
+    100082: LegMiddle1.L
+    100084: LegMiddle1.R
+    100086: LegMiddle2.L
+    100088: LegMiddle2.R
+    100090: LegMiddle3.L
+    100092: LegMiddle3.L_end
+    100094: LegMiddle3.R
+    100096: LegMiddle3.R_end
+    100098: LegMiddle3T.L
+    100100: LegMiddle3T.R
+    100102: LegMiddleKnee.L
+    100104: LegMiddleKnee.L_end
+    100106: LegMiddleKnee.R
+    100108: LegMiddleKnee.R_end
+    100110: Root
+    100112: Spider
+    100114: SpiderRig
+    100116: Torso
+    400000: Abdomen1
+    400002: Abdomen2
+    400004: Abdomen2_end
+    400006: FangBack.L
+    400008: FangBack.L_end
+    400010: FangBack.R
+    400012: FangBack.R_end
+    400014: FangFront.L
+    400016: FangFront.L_end
+    400018: FangFront.R
+    400020: FangFront.R_end
+    400022: //RootNode
+    400024: Head
+    400026: LegBack1.L
+    400028: LegBack1.R
+    400030: LegBack2.L
+    400032: LegBack2.R
+    400034: LegBack3.L
+    400036: LegBack3.L_end
+    400038: LegBack3.R
+    400040: LegBack3.R_end
+    400042: LegBack3T.L
+    400044: LegBack3T.R
+    400046: LegBackKnee.L
+    400048: LegBackKnee.L_end
+    400050: LegBackKnee.R
+    400052: LegBackKnee.R_end
+    400054: LegFront1.L
+    400056: LegFront1.R
+    400058: LegFront2.L
+    400060: LegFront2.R
+    400062: LegFront3.L
+    400064: LegFront3.L_end
+    400066: LegFront3.R
+    400068: LegFront3.R_end
+    400070: LegFront3T.L
+    400072: LegFront3T.R
+    400074: LegFrontKnee.L
+    400076: LegFrontKnee.L_end
+    400078: LegFrontKnee.R
+    400080: LegFrontKnee.R_end
+    400082: LegMiddle1.L
+    400084: LegMiddle1.R
+    400086: LegMiddle2.L
+    400088: LegMiddle2.R
+    400090: LegMiddle3.L
+    400092: LegMiddle3.L_end
+    400094: LegMiddle3.R
+    400096: LegMiddle3.R_end
+    400098: LegMiddle3T.L
+    400100: LegMiddle3T.R
+    400102: LegMiddleKnee.L
+    400104: LegMiddleKnee.L_end
+    400106: LegMiddleKnee.R
+    400108: LegMiddleKnee.R_end
+    400110: Root
+    400112: Spider
+    400114: SpiderRig
+    400116: Torso
+    4300000: Spider
+    7400000: SpiderRig|Idle
+    7400002: Spider|Idle
+    9500000: //RootNode
+    13700000: Spider
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 2
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: SpiderRig|Idle
+      takeName: SpiderRig|Idle
+      firstFrame: 0
+      lastFrame: 63
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Spider
+        weight: 1
+      - path: SpiderRig
+        weight: 1
+      - path: SpiderRig/LegBack3T.L
+        weight: 1
+      - path: SpiderRig/LegBack3T.L/LegBackKnee.L
+        weight: 1
+      - path: SpiderRig/LegBack3T.L/LegBackKnee.L/LegBackKnee.L_end
+        weight: 1
+      - path: SpiderRig/LegBack3T.R
+        weight: 1
+      - path: SpiderRig/LegBack3T.R/LegBackKnee.R
+        weight: 1
+      - path: SpiderRig/LegBack3T.R/LegBackKnee.R/LegBackKnee.R_end
+        weight: 1
+      - path: SpiderRig/LegFront3T.L
+        weight: 1
+      - path: SpiderRig/LegFront3T.L/LegFrontKnee.L
+        weight: 1
+      - path: SpiderRig/LegFront3T.L/LegFrontKnee.L/LegFrontKnee.L_end
+        weight: 1
+      - path: SpiderRig/LegFront3T.R
+        weight: 1
+      - path: SpiderRig/LegFront3T.R/LegFrontKnee.R
+        weight: 1
+      - path: SpiderRig/LegFront3T.R/LegFrontKnee.R/LegFrontKnee.R_end
+        weight: 1
+      - path: SpiderRig/LegMiddle3T.L
+        weight: 1
+      - path: SpiderRig/LegMiddle3T.L/LegMiddleKnee.L
+        weight: 1
+      - path: SpiderRig/LegMiddle3T.L/LegMiddleKnee.L/LegMiddleKnee.L_end
+        weight: 1
+      - path: SpiderRig/LegMiddle3T.R
+        weight: 1
+      - path: SpiderRig/LegMiddle3T.R/LegMiddleKnee.R
+        weight: 1
+      - path: SpiderRig/LegMiddle3T.R/LegMiddleKnee.R/LegMiddleKnee.R_end
+        weight: 1
+      - path: SpiderRig/Root
+        weight: 1
+      - path: SpiderRig/Root/Abdomen1
+        weight: 1
+      - path: SpiderRig/Root/Abdomen1/Abdomen2
+        weight: 1
+      - path: SpiderRig/Root/Abdomen1/Abdomen2/Abdomen2_end
+        weight: 1
+      - path: SpiderRig/Root/LegBack1.L
+        weight: 1
+      - path: SpiderRig/Root/LegBack1.L/LegBack2.L
+        weight: 1
+      - path: SpiderRig/Root/LegBack1.L/LegBack2.L/LegBack3.L
+        weight: 1
+      - path: SpiderRig/Root/LegBack1.L/LegBack2.L/LegBack3.L/LegBack3.L_end
+        weight: 1
+      - path: SpiderRig/Root/LegBack1.R
+        weight: 1
+      - path: SpiderRig/Root/LegBack1.R/LegBack2.R
+        weight: 1
+      - path: SpiderRig/Root/LegBack1.R/LegBack2.R/LegBack3.R
+        weight: 1
+      - path: SpiderRig/Root/LegBack1.R/LegBack2.R/LegBack3.R/LegBack3.R_end
+        weight: 1
+      - path: SpiderRig/Root/LegFront1.L
+        weight: 1
+      - path: SpiderRig/Root/LegFront1.L/LegFront2.L
+        weight: 1
+      - path: SpiderRig/Root/LegFront1.L/LegFront2.L/LegFront3.L
+        weight: 1
+      - path: SpiderRig/Root/LegFront1.L/LegFront2.L/LegFront3.L/LegFront3.L_end
+        weight: 1
+      - path: SpiderRig/Root/LegFront1.R
+        weight: 1
+      - path: SpiderRig/Root/LegFront1.R/LegFront2.R
+        weight: 1
+      - path: SpiderRig/Root/LegFront1.R/LegFront2.R/LegFront3.R
+        weight: 1
+      - path: SpiderRig/Root/LegFront1.R/LegFront2.R/LegFront3.R/LegFront3.R_end
+        weight: 1
+      - path: SpiderRig/Root/LegMiddle1.L
+        weight: 1
+      - path: SpiderRig/Root/LegMiddle1.L/LegMiddle2.L
+        weight: 1
+      - path: SpiderRig/Root/LegMiddle1.L/LegMiddle2.L/LegMiddle3.L
+        weight: 1
+      - path: SpiderRig/Root/LegMiddle1.L/LegMiddle2.L/LegMiddle3.L/LegMiddle3.L_end
+        weight: 1
+      - path: SpiderRig/Root/LegMiddle1.R
+        weight: 1
+      - path: SpiderRig/Root/LegMiddle1.R/LegMiddle2.R
+        weight: 1
+      - path: SpiderRig/Root/LegMiddle1.R/LegMiddle2.R/LegMiddle3.R
+        weight: 1
+      - path: SpiderRig/Root/LegMiddle1.R/LegMiddle2.R/LegMiddle3.R/LegMiddle3.R_end
+        weight: 1
+      - path: SpiderRig/Root/Torso
+        weight: 1
+      - path: SpiderRig/Root/Torso/Head
+        weight: 1
+      - path: SpiderRig/Root/Torso/Head/FangBack.L
+        weight: 1
+      - path: SpiderRig/Root/Torso/Head/FangBack.L/FangBack.L_end
+        weight: 1
+      - path: SpiderRig/Root/Torso/Head/FangBack.R
+        weight: 1
+      - path: SpiderRig/Root/Torso/Head/FangBack.R/FangBack.R_end
+        weight: 1
+      - path: SpiderRig/Root/Torso/Head/FangFront.L
+        weight: 1
+      - path: SpiderRig/Root/Torso/Head/FangFront.L/FangFront.L_end
+        weight: 1
+      - path: SpiderRig/Root/Torso/Head/FangFront.R
+        weight: 1
+      - path: SpiderRig/Root/Torso/Head/FangFront.R/FangFront.R_end
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Spider|Idle
+      takeName: Spider|Idle
+      firstFrame: 0
+      lastFrame: 63
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Spider
+        weight: 1
+      - path: SpiderRig
+        weight: 1
+      - path: SpiderRig/LegBack3T.L
+        weight: 1
+      - path: SpiderRig/LegBack3T.L/LegBackKnee.L
+        weight: 1
+      - path: SpiderRig/LegBack3T.L/LegBackKnee.L/LegBackKnee.L_end
+        weight: 1
+      - path: SpiderRig/LegBack3T.R
+        weight: 1
+      - path: SpiderRig/LegBack3T.R/LegBackKnee.R
+        weight: 1
+      - path: SpiderRig/LegBack3T.R/LegBackKnee.R/LegBackKnee.R_end
+        weight: 1
+      - path: SpiderRig/LegFront3T.L
+        weight: 1
+      - path: SpiderRig/LegFront3T.L/LegFrontKnee.L
+        weight: 1
+      - path: SpiderRig/LegFront3T.L/LegFrontKnee.L/LegFrontKnee.L_end
+        weight: 1
+      - path: SpiderRig/LegFront3T.R
+        weight: 1
+      - path: SpiderRig/LegFront3T.R/LegFrontKnee.R
+        weight: 1
+      - path: SpiderRig/LegFront3T.R/LegFrontKnee.R/LegFrontKnee.R_end
+        weight: 1
+      - path: SpiderRig/LegMiddle3T.L
+        weight: 1
+      - path: SpiderRig/LegMiddle3T.L/LegMiddleKnee.L
+        weight: 1
+      - path: SpiderRig/LegMiddle3T.L/LegMiddleKnee.L/LegMiddleKnee.L_end
+        weight: 1
+      - path: SpiderRig/LegMiddle3T.R
+        weight: 1
+      - path: SpiderRig/LegMiddle3T.R/LegMiddleKnee.R
+        weight: 1
+      - path: SpiderRig/LegMiddle3T.R/LegMiddleKnee.R/LegMiddleKnee.R_end
+        weight: 1
+      - path: SpiderRig/Root
+        weight: 1
+      - path: SpiderRig/Root/Abdomen1
+        weight: 1
+      - path: SpiderRig/Root/Abdomen1/Abdomen2
+        weight: 1
+      - path: SpiderRig/Root/Abdomen1/Abdomen2/Abdomen2_end
+        weight: 1
+      - path: SpiderRig/Root/LegBack1.L
+        weight: 1
+      - path: SpiderRig/Root/LegBack1.L/LegBack2.L
+        weight: 1
+      - path: SpiderRig/Root/LegBack1.L/LegBack2.L/LegBack3.L
+        weight: 1
+      - path: SpiderRig/Root/LegBack1.L/LegBack2.L/LegBack3.L/LegBack3.L_end
+        weight: 1
+      - path: SpiderRig/Root/LegBack1.R
+        weight: 1
+      - path: SpiderRig/Root/LegBack1.R/LegBack2.R
+        weight: 1
+      - path: SpiderRig/Root/LegBack1.R/LegBack2.R/LegBack3.R
+        weight: 1
+      - path: SpiderRig/Root/LegBack1.R/LegBack2.R/LegBack3.R/LegBack3.R_end
+        weight: 1
+      - path: SpiderRig/Root/LegFront1.L
+        weight: 1
+      - path: SpiderRig/Root/LegFront1.L/LegFront2.L
+        weight: 1
+      - path: SpiderRig/Root/LegFront1.L/LegFront2.L/LegFront3.L
+        weight: 1
+      - path: SpiderRig/Root/LegFront1.L/LegFront2.L/LegFront3.L/LegFront3.L_end
+        weight: 1
+      - path: SpiderRig/Root/LegFront1.R
+        weight: 1
+      - path: SpiderRig/Root/LegFront1.R/LegFront2.R
+        weight: 1
+      - path: SpiderRig/Root/LegFront1.R/LegFront2.R/LegFront3.R
+        weight: 1
+      - path: SpiderRig/Root/LegFront1.R/LegFront2.R/LegFront3.R/LegFront3.R_end
+        weight: 1
+      - path: SpiderRig/Root/LegMiddle1.L
+        weight: 1
+      - path: SpiderRig/Root/LegMiddle1.L/LegMiddle2.L
+        weight: 1
+      - path: SpiderRig/Root/LegMiddle1.L/LegMiddle2.L/LegMiddle3.L
+        weight: 1
+      - path: SpiderRig/Root/LegMiddle1.L/LegMiddle2.L/LegMiddle3.L/LegMiddle3.L_end
+        weight: 1
+      - path: SpiderRig/Root/LegMiddle1.R
+        weight: 1
+      - path: SpiderRig/Root/LegMiddle1.R/LegMiddle2.R
+        weight: 1
+      - path: SpiderRig/Root/LegMiddle1.R/LegMiddle2.R/LegMiddle3.R
+        weight: 1
+      - path: SpiderRig/Root/LegMiddle1.R/LegMiddle2.R/LegMiddle3.R/LegMiddle3.R_end
+        weight: 1
+      - path: SpiderRig/Root/Torso
+        weight: 1
+      - path: SpiderRig/Root/Torso/Head
+        weight: 1
+      - path: SpiderRig/Root/Torso/Head/FangBack.L
+        weight: 1
+      - path: SpiderRig/Root/Torso/Head/FangBack.L/FangBack.L_end
+        weight: 1
+      - path: SpiderRig/Root/Torso/Head/FangBack.R
+        weight: 1
+      - path: SpiderRig/Root/Torso/Head/FangBack.R/FangBack.R_end
+        weight: 1
+      - path: SpiderRig/Root/Torso/Head/FangFront.L
+        weight: 1
+      - path: SpiderRig/Root/Torso/Head/FangFront.L/FangFront.L_end
+        weight: 1
+      - path: SpiderRig/Root/Torso/Head/FangFront.R
+        weight: 1
+      - path: SpiderRig/Root/Torso/Head/FangFront.R/FangFront.R_end
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

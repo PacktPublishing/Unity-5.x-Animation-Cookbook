@@ -1,0 +1,890 @@
+fileFormatVersion: 2
+guid: d2ee05cbc7f85f94e8f722bc28c1019f
+timeCreated: 1452265559
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bird
+    100002: BirdRig
+    100004: //RootNode
+    100006: Head
+    100008: Model
+    100010: Neck1
+    100012: Neck2
+    100014: Root
+    100016: Tail1
+    100018: Tail2
+    100020: Tail3
+    100022: Tail4
+    100024: Wing1_L
+    100026: Wing1_R
+    100028: Wing2_L
+    100030: Wing2_R
+    100032: Wing3_L
+    100034: Wing3_R
+    400000: Bird
+    400002: BirdRig
+    400004: //RootNode
+    400006: Head
+    400008: Model
+    400010: Neck1
+    400012: Neck2
+    400014: Root
+    400016: Tail1
+    400018: Tail2
+    400020: Tail3
+    400022: Tail4
+    400024: Wing1_L
+    400026: Wing1_R
+    400028: Wing2_L
+    400030: Wing2_R
+    400032: Wing3_L
+    400034: Wing3_R
+    4300000: Bird
+    7400000: Default Take
+    7400002: Default_Take
+    7400004: FlyForward
+    7400006: FlyForwardDown
+    7400008: FlyForwardUp
+    7400010: FlyLeft
+    7400012: FlyLeftDown
+    7400014: FlyLeftUp
+    7400016: FlyRight
+    7400018: FlyRightDown
+    7400020: FlyRightUp
+    7400022: Idle
+    9500000: //RootNode
+    13700000: Bird
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 2
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Default Take
+      takeName: Default Take
+      firstFrame: 0
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bird
+        weight: 1
+      - path: BirdRig
+        weight: 1
+      - path: BirdRig/Root
+        weight: 1
+      - path: BirdRig/Root/Model
+        weight: 1
+      - path: BirdRig/Root/Model/Neck1
+        weight: 1
+      - path: BirdRig/Root/Model/Neck1/Neck2
+        weight: 1
+      - path: BirdRig/Root/Model/Neck1/Neck2/Head
+        weight: 1
+      - path: BirdRig/Root/Model/Tail1
+        weight: 1
+      - path: BirdRig/Root/Model/Tail1/Tail2
+        weight: 1
+      - path: BirdRig/Root/Model/Tail1/Tail2/Tail3
+        weight: 1
+      - path: BirdRig/Root/Model/Tail1/Tail2/Tail3/Tail4
+        weight: 1
+      - path: BirdRig/Root/Model/Wing1_L
+        weight: 1
+      - path: BirdRig/Root/Model/Wing1_L/Wing2_L
+        weight: 1
+      - path: BirdRig/Root/Model/Wing1_L/Wing2_L/Wing3_L
+        weight: 1
+      - path: BirdRig/Root/Model/Wing1_R
+        weight: 1
+      - path: BirdRig/Root/Model/Wing1_R/Wing2_R
+        weight: 1
+      - path: BirdRig/Root/Model/Wing1_R/Wing2_R/Wing3_R
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Default_Take
+      takeName: Default_Take
+      firstFrame: 0
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bird
+        weight: 1
+      - path: BirdRig
+        weight: 1
+      - path: BirdRig/Root
+        weight: 1
+      - path: BirdRig/Root/Model
+        weight: 1
+      - path: BirdRig/Root/Model/Neck1
+        weight: 1
+      - path: BirdRig/Root/Model/Neck1/Neck2
+        weight: 1
+      - path: BirdRig/Root/Model/Neck1/Neck2/Head
+        weight: 1
+      - path: BirdRig/Root/Model/Tail1
+        weight: 1
+      - path: BirdRig/Root/Model/Tail1/Tail2
+        weight: 1
+      - path: BirdRig/Root/Model/Tail1/Tail2/Tail3
+        weight: 1
+      - path: BirdRig/Root/Model/Tail1/Tail2/Tail3/Tail4
+        weight: 1
+      - path: BirdRig/Root/Model/Wing1_L
+        weight: 1
+      - path: BirdRig/Root/Model/Wing1_L/Wing2_L
+        weight: 1
+      - path: BirdRig/Root/Model/Wing1_L/Wing2_L/Wing3_L
+        weight: 1
+      - path: BirdRig/Root/Model/Wing1_R
+        weight: 1
+      - path: BirdRig/Root/Model/Wing1_R/Wing2_R
+        weight: 1
+      - path: BirdRig/Root/Model/Wing1_R/Wing2_R/Wing3_R
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: FlyForward
+      takeName: FlyForward
+      firstFrame: 0
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bird
+        weight: 1
+      - path: BirdRig
+        weight: 1
+      - path: BirdRig/Root
+        weight: 1
+      - path: BirdRig/Root/Model
+        weight: 1
+      - path: BirdRig/Root/Model/Neck1
+        weight: 1
+      - path: BirdRig/Root/Model/Neck1/Neck2
+        weight: 1
+      - path: BirdRig/Root/Model/Neck1/Neck2/Head
+        weight: 1
+      - path: BirdRig/Root/Model/Tail1
+        weight: 1
+      - path: BirdRig/Root/Model/Tail1/Tail2
+        weight: 1
+      - path: BirdRig/Root/Model/Tail1/Tail2/Tail3
+        weight: 1
+      - path: BirdRig/Root/Model/Tail1/Tail2/Tail3/Tail4
+        weight: 1
+      - path: BirdRig/Root/Model/Wing1_L
+        weight: 1
+      - path: BirdRig/Root/Model/Wing1_L/Wing2_L
+        weight: 1
+      - path: BirdRig/Root/Model/Wing1_L/Wing2_L/Wing3_L
+        weight: 1
+      - path: BirdRig/Root/Model/Wing1_R
+        weight: 1
+      - path: BirdRig/Root/Model/Wing1_R/Wing2_R
+        weight: 1
+      - path: BirdRig/Root/Model/Wing1_R/Wing2_R/Wing3_R
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: FlyForwardDown
+      takeName: FlyForwardDown
+      firstFrame: 0
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bird
+        weight: 1
+      - path: BirdRig
+        weight: 1
+      - path: BirdRig/Root
+        weight: 1
+      - path: BirdRig/Root/Model
+        weight: 1
+      - path: BirdRig/Root/Model/Neck1
+        weight: 1
+      - path: BirdRig/Root/Model/Neck1/Neck2
+        weight: 1
+      - path: BirdRig/Root/Model/Neck1/Neck2/Head
+        weight: 1
+      - path: BirdRig/Root/Model/Tail1
+        weight: 1
+      - path: BirdRig/Root/Model/Tail1/Tail2
+        weight: 1
+      - path: BirdRig/Root/Model/Tail1/Tail2/Tail3
+        weight: 1
+      - path: BirdRig/Root/Model/Tail1/Tail2/Tail3/Tail4
+        weight: 1
+      - path: BirdRig/Root/Model/Wing1_L
+        weight: 1
+      - path: BirdRig/Root/Model/Wing1_L/Wing2_L
+        weight: 1
+      - path: BirdRig/Root/Model/Wing1_L/Wing2_L/Wing3_L
+        weight: 1
+      - path: BirdRig/Root/Model/Wing1_R
+        weight: 1
+      - path: BirdRig/Root/Model/Wing1_R/Wing2_R
+        weight: 1
+      - path: BirdRig/Root/Model/Wing1_R/Wing2_R/Wing3_R
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: FlyForwardUp
+      takeName: FlyForwardUp
+      firstFrame: 0
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bird
+        weight: 1
+      - path: BirdRig
+        weight: 1
+      - path: BirdRig/Root
+        weight: 1
+      - path: BirdRig/Root/Model
+        weight: 1
+      - path: BirdRig/Root/Model/Neck1
+        weight: 1
+      - path: BirdRig/Root/Model/Neck1/Neck2
+        weight: 1
+      - path: BirdRig/Root/Model/Neck1/Neck2/Head
+        weight: 1
+      - path: BirdRig/Root/Model/Tail1
+        weight: 1
+      - path: BirdRig/Root/Model/Tail1/Tail2
+        weight: 1
+      - path: BirdRig/Root/Model/Tail1/Tail2/Tail3
+        weight: 1
+      - path: BirdRig/Root/Model/Tail1/Tail2/Tail3/Tail4
+        weight: 1
+      - path: BirdRig/Root/Model/Wing1_L
+        weight: 1
+      - path: BirdRig/Root/Model/Wing1_L/Wing2_L
+        weight: 1
+      - path: BirdRig/Root/Model/Wing1_L/Wing2_L/Wing3_L
+        weight: 1
+      - path: BirdRig/Root/Model/Wing1_R
+        weight: 1
+      - path: BirdRig/Root/Model/Wing1_R/Wing2_R
+        weight: 1
+      - path: BirdRig/Root/Model/Wing1_R/Wing2_R/Wing3_R
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: FlyLeft
+      takeName: FlyLeft
+      firstFrame: 0
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bird
+        weight: 1
+      - path: BirdRig
+        weight: 1
+      - path: BirdRig/Root
+        weight: 1
+      - path: BirdRig/Root/Model
+        weight: 1
+      - path: BirdRig/Root/Model/Neck1
+        weight: 1
+      - path: BirdRig/Root/Model/Neck1/Neck2
+        weight: 1
+      - path: BirdRig/Root/Model/Neck1/Neck2/Head
+        weight: 1
+      - path: BirdRig/Root/Model/Tail1
+        weight: 1
+      - path: BirdRig/Root/Model/Tail1/Tail2
+        weight: 1
+      - path: BirdRig/Root/Model/Tail1/Tail2/Tail3
+        weight: 1
+      - path: BirdRig/Root/Model/Tail1/Tail2/Tail3/Tail4
+        weight: 1
+      - path: BirdRig/Root/Model/Wing1_L
+        weight: 1
+      - path: BirdRig/Root/Model/Wing1_L/Wing2_L
+        weight: 1
+      - path: BirdRig/Root/Model/Wing1_L/Wing2_L/Wing3_L
+        weight: 1
+      - path: BirdRig/Root/Model/Wing1_R
+        weight: 1
+      - path: BirdRig/Root/Model/Wing1_R/Wing2_R
+        weight: 1
+      - path: BirdRig/Root/Model/Wing1_R/Wing2_R/Wing3_R
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: FlyLeftDown
+      takeName: FlyLeftDown
+      firstFrame: 0
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bird
+        weight: 1
+      - path: BirdRig
+        weight: 1
+      - path: BirdRig/Root
+        weight: 1
+      - path: BirdRig/Root/Model
+        weight: 1
+      - path: BirdRig/Root/Model/Neck1
+        weight: 1
+      - path: BirdRig/Root/Model/Neck1/Neck2
+        weight: 1
+      - path: BirdRig/Root/Model/Neck1/Neck2/Head
+        weight: 1
+      - path: BirdRig/Root/Model/Tail1
+        weight: 1
+      - path: BirdRig/Root/Model/Tail1/Tail2
+        weight: 1
+      - path: BirdRig/Root/Model/Tail1/Tail2/Tail3
+        weight: 1
+      - path: BirdRig/Root/Model/Tail1/Tail2/Tail3/Tail4
+        weight: 1
+      - path: BirdRig/Root/Model/Wing1_L
+        weight: 1
+      - path: BirdRig/Root/Model/Wing1_L/Wing2_L
+        weight: 1
+      - path: BirdRig/Root/Model/Wing1_L/Wing2_L/Wing3_L
+        weight: 1
+      - path: BirdRig/Root/Model/Wing1_R
+        weight: 1
+      - path: BirdRig/Root/Model/Wing1_R/Wing2_R
+        weight: 1
+      - path: BirdRig/Root/Model/Wing1_R/Wing2_R/Wing3_R
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: FlyLeftUp
+      takeName: FlyLeftUp
+      firstFrame: 0
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bird
+        weight: 1
+      - path: BirdRig
+        weight: 1
+      - path: BirdRig/Root
+        weight: 1
+      - path: BirdRig/Root/Model
+        weight: 1
+      - path: BirdRig/Root/Model/Neck1
+        weight: 1
+      - path: BirdRig/Root/Model/Neck1/Neck2
+        weight: 1
+      - path: BirdRig/Root/Model/Neck1/Neck2/Head
+        weight: 1
+      - path: BirdRig/Root/Model/Tail1
+        weight: 1
+      - path: BirdRig/Root/Model/Tail1/Tail2
+        weight: 1
+      - path: BirdRig/Root/Model/Tail1/Tail2/Tail3
+        weight: 1
+      - path: BirdRig/Root/Model/Tail1/Tail2/Tail3/Tail4
+        weight: 1
+      - path: BirdRig/Root/Model/Wing1_L
+        weight: 1
+      - path: BirdRig/Root/Model/Wing1_L/Wing2_L
+        weight: 1
+      - path: BirdRig/Root/Model/Wing1_L/Wing2_L/Wing3_L
+        weight: 1
+      - path: BirdRig/Root/Model/Wing1_R
+        weight: 1
+      - path: BirdRig/Root/Model/Wing1_R/Wing2_R
+        weight: 1
+      - path: BirdRig/Root/Model/Wing1_R/Wing2_R/Wing3_R
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: FlyRight
+      takeName: FlyRight
+      firstFrame: 0
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bird
+        weight: 1
+      - path: BirdRig
+        weight: 1
+      - path: BirdRig/Root
+        weight: 1
+      - path: BirdRig/Root/Model
+        weight: 1
+      - path: BirdRig/Root/Model/Neck1
+        weight: 1
+      - path: BirdRig/Root/Model/Neck1/Neck2
+        weight: 1
+      - path: BirdRig/Root/Model/Neck1/Neck2/Head
+        weight: 1
+      - path: BirdRig/Root/Model/Tail1
+        weight: 1
+      - path: BirdRig/Root/Model/Tail1/Tail2
+        weight: 1
+      - path: BirdRig/Root/Model/Tail1/Tail2/Tail3
+        weight: 1
+      - path: BirdRig/Root/Model/Tail1/Tail2/Tail3/Tail4
+        weight: 1
+      - path: BirdRig/Root/Model/Wing1_L
+        weight: 1
+      - path: BirdRig/Root/Model/Wing1_L/Wing2_L
+        weight: 1
+      - path: BirdRig/Root/Model/Wing1_L/Wing2_L/Wing3_L
+        weight: 1
+      - path: BirdRig/Root/Model/Wing1_R
+        weight: 1
+      - path: BirdRig/Root/Model/Wing1_R/Wing2_R
+        weight: 1
+      - path: BirdRig/Root/Model/Wing1_R/Wing2_R/Wing3_R
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: FlyRightDown
+      takeName: FlyRightDown
+      firstFrame: 0
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bird
+        weight: 1
+      - path: BirdRig
+        weight: 1
+      - path: BirdRig/Root
+        weight: 1
+      - path: BirdRig/Root/Model
+        weight: 1
+      - path: BirdRig/Root/Model/Neck1
+        weight: 1
+      - path: BirdRig/Root/Model/Neck1/Neck2
+        weight: 1
+      - path: BirdRig/Root/Model/Neck1/Neck2/Head
+        weight: 1
+      - path: BirdRig/Root/Model/Tail1
+        weight: 1
+      - path: BirdRig/Root/Model/Tail1/Tail2
+        weight: 1
+      - path: BirdRig/Root/Model/Tail1/Tail2/Tail3
+        weight: 1
+      - path: BirdRig/Root/Model/Tail1/Tail2/Tail3/Tail4
+        weight: 1
+      - path: BirdRig/Root/Model/Wing1_L
+        weight: 1
+      - path: BirdRig/Root/Model/Wing1_L/Wing2_L
+        weight: 1
+      - path: BirdRig/Root/Model/Wing1_L/Wing2_L/Wing3_L
+        weight: 1
+      - path: BirdRig/Root/Model/Wing1_R
+        weight: 1
+      - path: BirdRig/Root/Model/Wing1_R/Wing2_R
+        weight: 1
+      - path: BirdRig/Root/Model/Wing1_R/Wing2_R/Wing3_R
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: FlyRightUp
+      takeName: FlyRightUp
+      firstFrame: 0
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bird
+        weight: 1
+      - path: BirdRig
+        weight: 1
+      - path: BirdRig/Root
+        weight: 1
+      - path: BirdRig/Root/Model
+        weight: 1
+      - path: BirdRig/Root/Model/Neck1
+        weight: 1
+      - path: BirdRig/Root/Model/Neck1/Neck2
+        weight: 1
+      - path: BirdRig/Root/Model/Neck1/Neck2/Head
+        weight: 1
+      - path: BirdRig/Root/Model/Tail1
+        weight: 1
+      - path: BirdRig/Root/Model/Tail1/Tail2
+        weight: 1
+      - path: BirdRig/Root/Model/Tail1/Tail2/Tail3
+        weight: 1
+      - path: BirdRig/Root/Model/Tail1/Tail2/Tail3/Tail4
+        weight: 1
+      - path: BirdRig/Root/Model/Wing1_L
+        weight: 1
+      - path: BirdRig/Root/Model/Wing1_L/Wing2_L
+        weight: 1
+      - path: BirdRig/Root/Model/Wing1_L/Wing2_L/Wing3_L
+        weight: 1
+      - path: BirdRig/Root/Model/Wing1_R
+        weight: 1
+      - path: BirdRig/Root/Model/Wing1_R/Wing2_R
+        weight: 1
+      - path: BirdRig/Root/Model/Wing1_R/Wing2_R/Wing3_R
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Idle
+      takeName: Idle
+      firstFrame: 0
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bird
+        weight: 1
+      - path: BirdRig
+        weight: 1
+      - path: BirdRig/Root
+        weight: 1
+      - path: BirdRig/Root/Model
+        weight: 1
+      - path: BirdRig/Root/Model/Neck1
+        weight: 1
+      - path: BirdRig/Root/Model/Neck1/Neck2
+        weight: 1
+      - path: BirdRig/Root/Model/Neck1/Neck2/Head
+        weight: 1
+      - path: BirdRig/Root/Model/Tail1
+        weight: 1
+      - path: BirdRig/Root/Model/Tail1/Tail2
+        weight: 1
+      - path: BirdRig/Root/Model/Tail1/Tail2/Tail3
+        weight: 1
+      - path: BirdRig/Root/Model/Tail1/Tail2/Tail3/Tail4
+        weight: 1
+      - path: BirdRig/Root/Model/Wing1_L
+        weight: 1
+      - path: BirdRig/Root/Model/Wing1_L/Wing2_L
+        weight: 1
+      - path: BirdRig/Root/Model/Wing1_L/Wing2_L/Wing3_L
+        weight: 1
+      - path: BirdRig/Root/Model/Wing1_R
+        weight: 1
+      - path: BirdRig/Root/Model/Wing1_R/Wing2_R
+        weight: 1
+      - path: BirdRig/Root/Model/Wing1_R/Wing2_R/Wing3_R
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: Root
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

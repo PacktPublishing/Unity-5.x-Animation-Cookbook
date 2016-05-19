@@ -1,0 +1,598 @@
+fileFormatVersion: 2
+guid: 0daccbbf122088941a26e741bce901ff
+timeCreated: 1452866446
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Chest
+    100004: Circle
+    100006: //RootNode
+    100008: Foot_L
+    100010: Foot_R
+    100012: FootB_L
+    100014: FootB_R
+    100016: Head
+    100018: Leg2_L
+    100020: Leg2_R
+    100022: Leg_L
+    100024: Leg_R
+    100026: Neck
+    100028: Root
+    100030: Tail1
+    100032: Tail2
+    100034: Tail2_L
+    100036: Tail2_R
+    100038: Wing1_L
+    100040: Wing1_R
+    100042: Wing2_L
+    100044: Wing2_R
+    100046: Wing3_L
+    100048: Wing3_R
+    400000: Armature
+    400002: Chest
+    400004: Circle
+    400006: //RootNode
+    400008: Foot_L
+    400010: Foot_R
+    400012: FootB_L
+    400014: FootB_R
+    400016: Head
+    400018: Leg2_L
+    400020: Leg2_R
+    400022: Leg_L
+    400024: Leg_R
+    400026: Neck
+    400028: Root
+    400030: Tail1
+    400032: Tail2
+    400034: Tail2_L
+    400036: Tail2_R
+    400038: Wing1_L
+    400040: Wing1_R
+    400042: Wing2_L
+    400044: Wing2_R
+    400046: Wing3_L
+    400048: Wing3_R
+    4300000: Circle
+    7400000: Default Take
+    7400002: Default_Take
+    7400004: FlyInCircles
+    7400006: Idle
+    7400008: Landing
+    7400010: StartFlying
+    9500000: //RootNode
+    13700000: Circle
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 2
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 1
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Default Take
+      takeName: Default Take
+      firstFrame: 0
+      lastFrame: 99
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Root
+        weight: 1
+      - path: Armature/Root/Chest
+        weight: 1
+      - path: Armature/Root/Chest/Neck
+        weight: 1
+      - path: Armature/Root/Chest/Neck/Head
+        weight: 1
+      - path: Armature/Root/Chest/Wing1_L
+        weight: 1
+      - path: Armature/Root/Chest/Wing1_L/Wing2_L
+        weight: 1
+      - path: Armature/Root/Chest/Wing1_L/Wing2_L/Wing3_L
+        weight: 1
+      - path: Armature/Root/Chest/Wing1_R
+        weight: 1
+      - path: Armature/Root/Chest/Wing1_R/Wing2_R
+        weight: 1
+      - path: Armature/Root/Chest/Wing1_R/Wing2_R/Wing3_R
+        weight: 1
+      - path: Armature/Root/Leg_L
+        weight: 1
+      - path: Armature/Root/Leg_L/Leg2_L
+        weight: 1
+      - path: Armature/Root/Leg_L/Leg2_L/Foot_L
+        weight: 1
+      - path: Armature/Root/Leg_L/Leg2_L/FootB_L
+        weight: 1
+      - path: Armature/Root/Leg_R
+        weight: 1
+      - path: Armature/Root/Leg_R/Leg2_R
+        weight: 1
+      - path: Armature/Root/Leg_R/Leg2_R/Foot_R
+        weight: 1
+      - path: Armature/Root/Leg_R/Leg2_R/FootB_R
+        weight: 1
+      - path: Armature/Root/Tail1
+        weight: 1
+      - path: Armature/Root/Tail1/Tail2
+        weight: 1
+      - path: Armature/Root/Tail1/Tail2/Tail2_L
+        weight: 1
+      - path: Armature/Root/Tail1/Tail2/Tail2_R
+        weight: 1
+      - path: Circle
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Default_Take
+      takeName: Default_Take
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Root
+        weight: 1
+      - path: Armature/Root/Chest
+        weight: 1
+      - path: Armature/Root/Chest/Neck
+        weight: 1
+      - path: Armature/Root/Chest/Neck/Head
+        weight: 1
+      - path: Armature/Root/Chest/Wing1_L
+        weight: 1
+      - path: Armature/Root/Chest/Wing1_L/Wing2_L
+        weight: 1
+      - path: Armature/Root/Chest/Wing1_L/Wing2_L/Wing3_L
+        weight: 1
+      - path: Armature/Root/Chest/Wing1_R
+        weight: 1
+      - path: Armature/Root/Chest/Wing1_R/Wing2_R
+        weight: 1
+      - path: Armature/Root/Chest/Wing1_R/Wing2_R/Wing3_R
+        weight: 1
+      - path: Armature/Root/Leg_L
+        weight: 1
+      - path: Armature/Root/Leg_L/Leg2_L
+        weight: 1
+      - path: Armature/Root/Leg_L/Leg2_L/Foot_L
+        weight: 1
+      - path: Armature/Root/Leg_L/Leg2_L/FootB_L
+        weight: 1
+      - path: Armature/Root/Leg_R
+        weight: 1
+      - path: Armature/Root/Leg_R/Leg2_R
+        weight: 1
+      - path: Armature/Root/Leg_R/Leg2_R/Foot_R
+        weight: 1
+      - path: Armature/Root/Leg_R/Leg2_R/FootB_R
+        weight: 1
+      - path: Armature/Root/Tail1
+        weight: 1
+      - path: Armature/Root/Tail1/Tail2
+        weight: 1
+      - path: Armature/Root/Tail1/Tail2/Tail2_L
+        weight: 1
+      - path: Armature/Root/Tail1/Tail2/Tail2_R
+        weight: 1
+      - path: Circle
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: FlyInCircles
+      takeName: FlyInCircles
+      firstFrame: 0
+      lastFrame: 99
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Root
+        weight: 1
+      - path: Armature/Root/Chest
+        weight: 1
+      - path: Armature/Root/Chest/Neck
+        weight: 1
+      - path: Armature/Root/Chest/Neck/Head
+        weight: 1
+      - path: Armature/Root/Chest/Wing1_L
+        weight: 1
+      - path: Armature/Root/Chest/Wing1_L/Wing2_L
+        weight: 1
+      - path: Armature/Root/Chest/Wing1_L/Wing2_L/Wing3_L
+        weight: 1
+      - path: Armature/Root/Chest/Wing1_R
+        weight: 1
+      - path: Armature/Root/Chest/Wing1_R/Wing2_R
+        weight: 1
+      - path: Armature/Root/Chest/Wing1_R/Wing2_R/Wing3_R
+        weight: 1
+      - path: Armature/Root/Leg_L
+        weight: 1
+      - path: Armature/Root/Leg_L/Leg2_L
+        weight: 1
+      - path: Armature/Root/Leg_L/Leg2_L/Foot_L
+        weight: 1
+      - path: Armature/Root/Leg_L/Leg2_L/FootB_L
+        weight: 1
+      - path: Armature/Root/Leg_R
+        weight: 1
+      - path: Armature/Root/Leg_R/Leg2_R
+        weight: 1
+      - path: Armature/Root/Leg_R/Leg2_R/Foot_R
+        weight: 1
+      - path: Armature/Root/Leg_R/Leg2_R/FootB_R
+        weight: 1
+      - path: Armature/Root/Tail1
+        weight: 1
+      - path: Armature/Root/Tail1/Tail2
+        weight: 1
+      - path: Armature/Root/Tail1/Tail2/Tail2_L
+        weight: 1
+      - path: Armature/Root/Tail1/Tail2/Tail2_R
+        weight: 1
+      - path: Circle
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Idle
+      takeName: Idle
+      firstFrame: 0
+      lastFrame: 296
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Root
+        weight: 1
+      - path: Armature/Root/Chest
+        weight: 1
+      - path: Armature/Root/Chest/Neck
+        weight: 1
+      - path: Armature/Root/Chest/Neck/Head
+        weight: 1
+      - path: Armature/Root/Chest/Wing1_L
+        weight: 1
+      - path: Armature/Root/Chest/Wing1_L/Wing2_L
+        weight: 1
+      - path: Armature/Root/Chest/Wing1_L/Wing2_L/Wing3_L
+        weight: 1
+      - path: Armature/Root/Chest/Wing1_R
+        weight: 1
+      - path: Armature/Root/Chest/Wing1_R/Wing2_R
+        weight: 1
+      - path: Armature/Root/Chest/Wing1_R/Wing2_R/Wing3_R
+        weight: 1
+      - path: Armature/Root/Leg_L
+        weight: 1
+      - path: Armature/Root/Leg_L/Leg2_L
+        weight: 1
+      - path: Armature/Root/Leg_L/Leg2_L/Foot_L
+        weight: 1
+      - path: Armature/Root/Leg_L/Leg2_L/FootB_L
+        weight: 1
+      - path: Armature/Root/Leg_R
+        weight: 1
+      - path: Armature/Root/Leg_R/Leg2_R
+        weight: 1
+      - path: Armature/Root/Leg_R/Leg2_R/Foot_R
+        weight: 1
+      - path: Armature/Root/Leg_R/Leg2_R/FootB_R
+        weight: 1
+      - path: Armature/Root/Tail1
+        weight: 1
+      - path: Armature/Root/Tail1/Tail2
+        weight: 1
+      - path: Armature/Root/Tail1/Tail2/Tail2_L
+        weight: 1
+      - path: Armature/Root/Tail1/Tail2/Tail2_R
+        weight: 1
+      - path: Circle
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Landing
+      takeName: Landing
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Root
+        weight: 1
+      - path: Armature/Root/Chest
+        weight: 1
+      - path: Armature/Root/Chest/Neck
+        weight: 1
+      - path: Armature/Root/Chest/Neck/Head
+        weight: 1
+      - path: Armature/Root/Chest/Wing1_L
+        weight: 1
+      - path: Armature/Root/Chest/Wing1_L/Wing2_L
+        weight: 1
+      - path: Armature/Root/Chest/Wing1_L/Wing2_L/Wing3_L
+        weight: 1
+      - path: Armature/Root/Chest/Wing1_R
+        weight: 1
+      - path: Armature/Root/Chest/Wing1_R/Wing2_R
+        weight: 1
+      - path: Armature/Root/Chest/Wing1_R/Wing2_R/Wing3_R
+        weight: 1
+      - path: Armature/Root/Leg_L
+        weight: 1
+      - path: Armature/Root/Leg_L/Leg2_L
+        weight: 1
+      - path: Armature/Root/Leg_L/Leg2_L/Foot_L
+        weight: 1
+      - path: Armature/Root/Leg_L/Leg2_L/FootB_L
+        weight: 1
+      - path: Armature/Root/Leg_R
+        weight: 1
+      - path: Armature/Root/Leg_R/Leg2_R
+        weight: 1
+      - path: Armature/Root/Leg_R/Leg2_R/Foot_R
+        weight: 1
+      - path: Armature/Root/Leg_R/Leg2_R/FootB_R
+        weight: 1
+      - path: Armature/Root/Tail1
+        weight: 1
+      - path: Armature/Root/Tail1/Tail2
+        weight: 1
+      - path: Armature/Root/Tail1/Tail2/Tail2_L
+        weight: 1
+      - path: Armature/Root/Tail1/Tail2/Tail2_R
+        weight: 1
+      - path: Circle
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: StartFlying
+      takeName: StartFlying
+      firstFrame: 0
+      lastFrame: 79
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Root
+        weight: 1
+      - path: Armature/Root/Chest
+        weight: 1
+      - path: Armature/Root/Chest/Neck
+        weight: 1
+      - path: Armature/Root/Chest/Neck/Head
+        weight: 1
+      - path: Armature/Root/Chest/Wing1_L
+        weight: 1
+      - path: Armature/Root/Chest/Wing1_L/Wing2_L
+        weight: 1
+      - path: Armature/Root/Chest/Wing1_L/Wing2_L/Wing3_L
+        weight: 1
+      - path: Armature/Root/Chest/Wing1_R
+        weight: 1
+      - path: Armature/Root/Chest/Wing1_R/Wing2_R
+        weight: 1
+      - path: Armature/Root/Chest/Wing1_R/Wing2_R/Wing3_R
+        weight: 1
+      - path: Armature/Root/Leg_L
+        weight: 1
+      - path: Armature/Root/Leg_L/Leg2_L
+        weight: 1
+      - path: Armature/Root/Leg_L/Leg2_L/Foot_L
+        weight: 1
+      - path: Armature/Root/Leg_L/Leg2_L/FootB_L
+        weight: 1
+      - path: Armature/Root/Leg_R
+        weight: 1
+      - path: Armature/Root/Leg_R/Leg2_R
+        weight: 1
+      - path: Armature/Root/Leg_R/Leg2_R/Foot_R
+        weight: 1
+      - path: Armature/Root/Leg_R/Leg2_R/FootB_R
+        weight: 1
+      - path: Armature/Root/Tail1
+        weight: 1
+      - path: Armature/Root/Tail1/Tail2
+        weight: 1
+      - path: Armature/Root/Tail1/Tail2/Tail2_L
+        weight: 1
+      - path: Armature/Root/Tail1/Tail2/Tail2_R
+        weight: 1
+      - path: Circle
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

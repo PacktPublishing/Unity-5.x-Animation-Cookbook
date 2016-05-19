@@ -1,0 +1,27 @@
+Base path: D:/Programy/Gry/Edytory gier/Unity50/Editor/Data
+Pipe name: \\.\pipe\UnityShaderCompiler-64bit-2-6176
+Cmd: getPlatforms
+Cmd: compileSnippet
+  api=4 type=0 insize=2093 outsize=2103 kw=SPOT SHADOWS_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2093 outsize=2103 kw=DIRECTIONAL_COOKIE SHADOWS_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2093 outsize=1769 kw=DIRECTIONAL SHADOWS_SCREEN ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2093 outsize=2281 kw=POINT SHADOWS_CUBE ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2093 outsize=2517 kw=SPOT SHADOWS_DEPTH SHADOWS_SOFT SHADOWS_NATIVE ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=2093 outsize=399 kw=SPOT SHADOWS_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2093 outsize=1339 kw=DIRECTIONAL_COOKIE SHADOWS_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2093 outsize=1396 kw=DIRECTIONAL SHADOWS_SCREEN ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2093 outsize=2078 kw=POINT SHADOWS_CUBE ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2093 outsize=3021 kw=SPOT SHADOWS_DEPTH SHADOWS_SOFT SHADOWS_NATIVE ok=1
+Unhandled exception: Readfile from pipe failed. GLE=Potok został zakończony.
+
+
+Quitting shader compiler process

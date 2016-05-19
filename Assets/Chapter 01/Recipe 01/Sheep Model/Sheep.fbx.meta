@@ -1,0 +1,176 @@
+fileFormatVersion: 2
+guid: 4e61e6e33d0221944b1d8cbae055dcc1
+timeCreated: 1446982337
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Ear_L
+    100002: Ear_L_end
+    100004: Ear_R
+    100006: Ear_R_end
+    100008: Foot1_L
+    100010: Foot1_L_end
+    100012: Foot1_R
+    100014: Foot1_R_end
+    100016: Foot1Target_L
+    100018: Foot1Target_L_end
+    100020: Foot1Target_R
+    100022: Foot1Target_R_end
+    100024: Foot2_L
+    100026: Foot2_L_end
+    100028: Foot2_R
+    100030: Foot2_R_end
+    100032: Foot2Target_L
+    100034: Foot2Target_L_end
+    100036: Foot2Target_R
+    100038: Foot2Target_R_end
+    100040: Head
+    100042: Hips
+    100044: Hips_L
+    100046: Hips_R
+    100048: Knee1Target_L
+    100050: Knee1Target_L_end
+    100052: Knee1Target_R
+    100054: Knee1Target_R_end
+    100056: Knee2Target_L
+    100058: Knee2Target_L_end
+    100060: Knee2Target_R
+    100062: Knee2Target_R_end
+    100064: LegDown1_L
+    100066: LegDown1_R
+    100068: LegDown2_L
+    100070: LegDown2_R
+    100072: LegUp1_L
+    100074: LegUp1_R
+    100076: LegUp2_L
+    100078: LegUp2_R
+    100080: Neck
+    100082: //RootNode
+    100084: Sheep
+    100086: SheepRig
+    100088: SheepRoot
+    100090: Spine1
+    100092: Spine1_L
+    100094: Spine1_R
+    100096: Tail
+    100098: Tail_end
+    400000: Ear_L
+    400002: Ear_L_end
+    400004: Ear_R
+    400006: Ear_R_end
+    400008: Foot1_L
+    400010: Foot1_L_end
+    400012: Foot1_R
+    400014: Foot1_R_end
+    400016: Foot1Target_L
+    400018: Foot1Target_L_end
+    400020: Foot1Target_R
+    400022: Foot1Target_R_end
+    400024: Foot2_L
+    400026: Foot2_L_end
+    400028: Foot2_R
+    400030: Foot2_R_end
+    400032: Foot2Target_L
+    400034: Foot2Target_L_end
+    400036: Foot2Target_R
+    400038: Foot2Target_R_end
+    400040: Head
+    400042: Hips
+    400044: Hips_L
+    400046: Hips_R
+    400048: Knee1Target_L
+    400050: Knee1Target_L_end
+    400052: Knee1Target_R
+    400054: Knee1Target_R_end
+    400056: Knee2Target_L
+    400058: Knee2Target_L_end
+    400060: Knee2Target_R
+    400062: Knee2Target_R_end
+    400064: LegDown1_L
+    400066: LegDown1_R
+    400068: LegDown2_L
+    400070: LegDown2_R
+    400072: LegUp1_L
+    400074: LegUp1_R
+    400076: LegUp2_L
+    400078: LegUp2_R
+    400080: Neck
+    400082: Sheep
+    400084: //RootNode
+    400086: SheepRig
+    400088: SheepRoot
+    400090: Spine1
+    400092: Spine1_L
+    400094: Spine1_R
+    400096: Tail
+    400098: Tail_end
+    4300000: Sheep
+    7400000: SheepRig|SheepEating
+    7400002: SheepRig|SheepIdle
+    9500000: //RootNode
+    13700000: Sheep
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 2
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

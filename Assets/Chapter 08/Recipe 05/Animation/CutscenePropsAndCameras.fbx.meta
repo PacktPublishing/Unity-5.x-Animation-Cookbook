@@ -1,0 +1,339 @@
+fileFormatVersion: 2
+guid: 995c4a0b78fc12848ae9fc560ae1bd09
+timeCreated: 1456485546
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Ball
+    100002: Camera
+    100004: Camera_001
+    100006: Camera_002
+    100008: //RootNode
+    100010: Empty
+    100012: Empty_001
+    100014: Empty_002
+    100016: Goal
+    100018: GoalNet
+    100020: GoalRig
+    100022: Root
+    100024: Root_001
+    100026: Root_001_L_002
+    100028: Root_001_L_004
+    100030: Root_001_L_006
+    100032: Root_001_L_008
+    100034: Root_001_L_010
+    100036: Root_001_L_012
+    100038: Root_001_R_002
+    100040: Root_001_R_004
+    100042: Root_001_R_006
+    100044: Root_001_R_008
+    100046: Root_001_R_010
+    100048: Root_001_R_012
+    100050: Root_003
+    100052: Cam1
+    100054: Cam2
+    100056: Cam3
+    100058: CamHolder_000
+    100060: CamHolder_001
+    100062: CamHolder_002
+    400000: Ball
+    400002: Camera
+    400004: Camera_001
+    400006: Camera_002
+    400008: //RootNode
+    400010: Empty
+    400012: Empty_001
+    400014: Empty_002
+    400016: Goal
+    400018: GoalNet
+    400020: GoalRig
+    400022: Root
+    400024: Root_001
+    400026: Root_001_L_002
+    400028: Root_001_L_004
+    400030: Root_001_L_006
+    400032: Root_001_L_008
+    400034: Root_001_L_010
+    400036: Root_001_L_012
+    400038: Root_001_R_002
+    400040: Root_001_R_004
+    400042: Root_001_R_006
+    400044: Root_001_R_008
+    400046: Root_001_R_010
+    400048: Root_001_R_012
+    400050: Root_003
+    400052: Cam1
+    400054: Cam2
+    400056: Cam3
+    400058: CamHolder_000
+    400060: CamHolder_001
+    400062: CamHolder_002
+    2300000: Ball
+    2300002: Goal
+    2300004: CamHolder_000
+    2300006: CamHolder_001
+    2300008: CamHolder_002
+    3300000: Ball
+    3300002: Goal
+    3300004: CamHolder_000
+    3300006: CamHolder_001
+    3300008: CamHolder_002
+    4300000: GoalNet
+    4300002: Goal
+    4300004: Ball
+    4300006: CamHolder_002
+    4300008: CamHolder_000
+    4300010: CamHolder_001
+    7400000: PropsAndCameras
+    7400002: GoalAction
+    7400004: Cutscene
+    9500000: //RootNode
+    13700000: GoalNet
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Cutscene
+      takeName: Default Take
+      firstFrame: 0
+      lastFrame: 347
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0
+        functionName: ChangeCamera
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.37256002
+        functionName: SetSubtitles
+        data: Goaaal!
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.6043689
+        functionName: SetSubtitles
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.26213592
+        functionName: ChangeCamera
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 1
+        messageOptions: 0
+      - time: 0.4538835
+        functionName: ChangeCamera
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 2
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Ball
+        weight: 1
+      - path: CamHolder_000
+        weight: 1
+      - path: CamHolder_001
+        weight: 1
+      - path: CamHolder_002
+        weight: 1
+      - path: Goal
+        weight: 1
+      - path: GoalNet
+        weight: 1
+      - path: GoalRig
+        weight: 1
+      - path: GoalRig/Root
+        weight: 1
+      - path: GoalRig/Root_001
+        weight: 1
+      - path: GoalRig/Root_001/Root_001_L_002
+        weight: 1
+      - path: GoalRig/Root_001/Root_001_L_004
+        weight: 1
+      - path: GoalRig/Root_001/Root_001_L_006
+        weight: 1
+      - path: GoalRig/Root_001/Root_001_L_008
+        weight: 1
+      - path: GoalRig/Root_001/Root_001_L_010
+        weight: 1
+      - path: GoalRig/Root_001/Root_001_L_012
+        weight: 1
+      - path: GoalRig/Root_001/Root_001_R_002
+        weight: 1
+      - path: GoalRig/Root_001/Root_001_R_004
+        weight: 1
+      - path: GoalRig/Root_001/Root_001_R_006
+        weight: 1
+      - path: GoalRig/Root_001/Root_001_R_008
+        weight: 1
+      - path: GoalRig/Root_001/Root_001_R_010
+        weight: 1
+      - path: GoalRig/Root_001/Root_001_R_012
+        weight: 1
+      - path: GoalRig/Root_003
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: GoalAction
+      takeName: GoalAction
+      firstFrame: 129
+      lastFrame: 343
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Ball
+        weight: 1
+      - path: CamHolder_000
+        weight: 1
+      - path: CamHolder_001
+        weight: 1
+      - path: CamHolder_002
+        weight: 1
+      - path: Goal
+        weight: 1
+      - path: GoalNet
+        weight: 1
+      - path: GoalRig
+        weight: 1
+      - path: GoalRig/Root
+        weight: 1
+      - path: GoalRig/Root_001
+        weight: 1
+      - path: GoalRig/Root_001/Root_001_L_002
+        weight: 1
+      - path: GoalRig/Root_001/Root_001_L_004
+        weight: 1
+      - path: GoalRig/Root_001/Root_001_L_006
+        weight: 1
+      - path: GoalRig/Root_001/Root_001_L_008
+        weight: 1
+      - path: GoalRig/Root_001/Root_001_L_010
+        weight: 1
+      - path: GoalRig/Root_001/Root_001_L_012
+        weight: 1
+      - path: GoalRig/Root_001/Root_001_R_002
+        weight: 1
+      - path: GoalRig/Root_001/Root_001_R_004
+        weight: 1
+      - path: GoalRig/Root_001/Root_001_R_006
+        weight: 1
+      - path: GoalRig/Root_001/Root_001_R_008
+        weight: 1
+      - path: GoalRig/Root_001/Root_001_R_010
+        weight: 1
+      - path: GoalRig/Root_001/Root_001_R_012
+        weight: 1
+      - path: GoalRig/Root_003
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
