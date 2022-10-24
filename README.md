@@ -10,3 +10,7 @@ Code repository for [Unity-5.x-Animation-Cookbook](https://www.packtpub.com/game
 * [Unity 5.x Game AI Programming Cookbook](https://www.packtpub.com/game-development/unity-5x-game-ai-programming-cookbook?utm_source=GitHub&utm_medium=repo&utm_campaign=9781783553570)
 
 
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781785883910">https://packt.link/free-ebook/9781785883910 </a> </p>
