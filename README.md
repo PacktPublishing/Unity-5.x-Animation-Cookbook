@@ -1,3 +1,15 @@
+
+### Get this product for $5
+
+<i>Packt is having its biggest sale of the year. Get this eBook or any other book, video, or course that you like just for $5 each</i>
+
+
+<b><p align='center'>[Buy now](https://packt.link/9781785883910)</p></b>
+
+
+<b><p align='center'>[Buy similar titles for just $5](https://subscription.packtpub.com/search)</p></b>
+
+
 # Unity-5.x-Animation-Cookbook
 Code repository for [Unity-5.x-Animation-Cookbook](https://www.packtpub.com/game-development/unity-5x-animation-cookbook?utm_source=GitHub&utm_medium=repo&utm_campaign=9781785883910), published by [Packt Publishing](https://www.packtpub.com/), it contains all the code files required to get started with this book from start to finish. All the chapter wise recipe examples are present in the Assets folder.
 
